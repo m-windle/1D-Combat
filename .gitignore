@@ -1,0 +1,8 @@
+*.sdf
+*.opensdf
+*.suo
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+/Debug
+/1D\ Combat/Debug
